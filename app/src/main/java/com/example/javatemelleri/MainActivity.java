@@ -1,4 +1,4 @@
- package com.example.javatemelleri;
+     package com.example.javatemelleri;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintSet;
